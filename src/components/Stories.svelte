@@ -75,7 +75,7 @@
                </div>
              <h2>
                  JaviRome94
-                 <span>8 horas antes</span>
+                 <span>10 horas antes</span>
              </h2>
            </div>
        </div>
